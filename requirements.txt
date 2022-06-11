@@ -1,0 +1,7 @@
+sys
+requests
+lxml
+bs4
+urllib.parse
+argparse
+prettytable
