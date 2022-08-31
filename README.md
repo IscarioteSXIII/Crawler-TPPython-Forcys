@@ -56,7 +56,7 @@
 
 <br>Premiere version du crawler</br>
 
-<br>Ce programme est un crawler qui permet de parcourir un lien et extracter des informations. </br>
+<br>Ce programme est un crawler qui permet de parcourir une URL donnée et extraire plusieurs informations. </br>
 <br>Le programme est utilisable en ligne de commande et proposer les fonctionnalités suivantes :</br>
 
 <br>Afficher les resultats dans le terminal<br />
